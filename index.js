@@ -1,1 +1,4 @@
-function shout
+function shout(string){
+  return string.toUpperCase();
+}
+
